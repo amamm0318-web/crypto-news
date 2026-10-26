@@ -183,20 +183,25 @@ function lvrender(){
 var FEEDS=[["CoinDesk","https://www.coindesk.com/arc/outboundfeeds/rss"],["Cointelegraph","https://cointelegraph.com/rss"],["Decrypt","https://decrypt.co/feed"]];
 function isoD(s){var d=new Date(String(s).replace(" ","T")+"Z");return isNaN(d)?new Date().toISOString():d.toISOString()}
 function lvdone(){
-  $("lmsg").textContent=lv.length?"عناوين من مصادر عامة، الضغط كيحيلك للمقال الأصلي":"ما قدرناش نجيبو العناوين دابا. عاود من بعد شوية.";
+  $("lmsg").textContent=lv.length?"عناوين من مصادر عامة، الضغط كيحيلك للمقال الأصلي":"ما بقاو عناوين بعد. شغل الـ workflow فتبويب Actions (Update news) أول مرة.";
   lvrender();
 }
 function lvload(){
   $("lmsg").textContent="كنجيب العناوين…";
   var c=cget("lv",600000);if(c){lv=c;lvdone();return}
-  Promise.all(FEEDS.map(function(f){
-    return fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(f[1]))
-    .then(function(r){return r.json()})
-    .then(function(d){return(d.items||[]).map(function(it){return{source:f[0],title:it.title,url:it.link,published:isoD(it.pubDate)}})})
-    .catch(function(){return[]});
-  })).then(function(a){
-    lv=[].concat.apply([],a).filter(function(x){return x.title&&/^https?:\/\//.test(x.url)}).sort(function(x,y){return y.published>x.published?1:-1});
-    if(lv.length)cset("lv",lv);lvdone();
+  fetch("news.json",{cache:"no-store"}).then(function(r){if(!r.ok)throw 0;return r.json()}).then(function(d){
+    var l=(d.items||[]).filter(function(x){return x.title&&/^https?:\/\//.test(x.url)});
+    if(!l.length)throw 0;lv=l;cset("lv",lv);lvdone();
+  }).catch(function(){
+    Promise.all(FEEDS.map(function(f){
+      return fetch("https://api.rss2json.com/v1/api.json?rss_url="+encodeURIComponent(f[1]))
+      .then(function(r){return r.json()})
+      .then(function(d){return(d.items||[]).map(function(it){return{source:f[0],title:it.title,url:it.link,published:isoD(it.pubDate)}})})
+      .catch(function(){return[]});
+    })).then(function(a){
+      lv=[].concat.apply([],a).filter(function(x){return x.title&&/^https?:\/\//.test(x.url)}).sort(function(x,y){return y.published>x.published?1:-1});
+      if(lv.length)cset("lv",lv);lvdone();
+    });
   });
 }
 $("tabLive").onclick=function(){showTab("live")};
