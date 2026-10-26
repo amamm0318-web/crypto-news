@@ -56,6 +56,9 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 @media(max-width:480px){.mrow{grid-template-columns:22px 28px 1fr auto}.mrow .mc{display:none}}
 .lrow{display:block;text-decoration:none;color:var(--text);background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px;margin-bottom:10px}
 .lrow:hover{border-color:var(--accent)}.lrow h3{margin:8px 0 0;font-size:16px;line-height:1.5}
+.lrow a{color:inherit;text-decoration:none;display:block}
+.lrow .tr{margin:8px 0 0;color:var(--muted);font-size:14px}
+.lrow .trb{margin-top:8px;font-size:13px;padding:4px 10px}
 </style>
 </head>
 <body>
@@ -93,6 +96,8 @@ footer{text-align:center;color:var(--muted);font-size:12px;padding:20px}
 <script>
 var COINS=[["BTC · 24 أكتوبر","بيتكوين","≈ $80,138","down"],["ETH · 19 أكتوبر","إيثريوم","≈ $2,412",""],["BTC سنة","مقارنة بعام","−26%","down"],["Brent · 16 أكتوبر","النفط","> $106","up"]];
 var NEWS=[
+{id:7,cat:"أمان",hot:1,t:"اختراق Keystone: الجهاز سليم، ولكن عناوين الزبناء خرجات",s:"أسماء وعناوين الشحن وتفاصيل الطلبات تسربات، والمفاتيح الخاصة ما تأثراتش.",b:"أعلنات شركة Keystone لمحافظ الأجهزة أن شي طرف دخل لموقعها بلا إذن. حسب التقارير، الدخول تكشف نهار 20 أكتوبر وتأكدات سرقة البيانات نهار 23. اللي تسرب: الأسماء، معلومات الاتصال، عناوين الشحن، وتفاصيل الطلبات (شنو شراو وبشحال). اللي ما تسربش، حسب الشركة: بيانات الدفع والبنك، المفاتيح الخاصة، عبارات الاسترداد وكلمات سر المحفظة. الشركة سدات الثغرة وبدات كتبلغ الزبناء، وعدات بتقرير مفصل.<br><br>القراءة ديالي: هاد الحادث كيبين بلي أمان المحفظة عندو جوج دوائر. الدائرة التشفيرية (الجهاز) كانت سليمة. ولكن الدائرة التجارية (المتجر والبيانات) هي اللي تخرقات. واللائحة اللي خرجات خطيرة بطبيعتها: كتجمع اسم الشخص وعنوانو والمعلومة أنو شرا محفظة كريبتو. هادشي كيسهل على المحتالين يتنكرو فشخصية الشركة ويعرضو «استرداد» ولا «جهاز بديل»، وكيزيد خطر الاستهداف حتى خارج الإنترنت.<br><br>نقطة كتستاهل الانتباه: ذكرات Cointelegraph أن الشركة وعدات فـ 2023 تنقص مدة حفظ البيانات لـ 180 يوم، ومع هادشي كاين زبناء توصلو بإشعار رغم أنهم شراو من أكثر من عامين. الشركة ما جاوباتش دابا على كيفاش، ولا على عدد المتضررين. وهادشي جا بعد حوادث فقطاع محافظ الأجهزة هاد العام، بحال Trezor فغشت (عبر مزود الشحن ShipMonk).<br><br>شنو دير:<br>1. ما تفتح حتى رابط جاك فرسالة تدعي أنها من Keystone، وادخل للموقع الرسمي بيدك.<br>2. عبارة الاسترداد ما كتتعطى لحتى جهة، ولا كتتكتب فحتى موقع.<br>3. إلا توصلتي بعرض استرداد أو جهاز جديد، اعتبرو احتيال حتى يثبت العكس.<br>4. ما تعلنش أنك كتملك كريبتو، وراجع عنوان الشحن إلا قدرتي تغير.<br><br>تحليل مبني على وقائع منشورة يوم 24-26 أكتوبر 2026، ماشي نصيحة مالية.",d:"تحليل · 26 أكتوبر 2026"},
+{id:8,cat:"تنظيم",hot:1,t:"الشركات الكبرى كترفض الأسهم المرمّزة: شنو وراء هاد الرفض؟",s:"من اعتراض وحد فـ 4 أكتوبر لـ 16 شركة فأقل من أسبوعين على منصة OKXICE.",b:"المنصة المرتقبة OKXICE (مشروع مشترك بين OKX وICE، مالكة بورصة نيويورك) كانت كتخطط تقدم تداول 24/7 لأسهم مرمّزة ديال 62 شركة أمريكية. حسب التقارير، الاعتراضات تزايدات بسرعة: واحد فـ 4 أكتوبر، 9 فـ 15 أكتوبر، و16 فـ 19-20 أكتوبر، بما فيهم Microsoft وAlphabet وGoldman Sachs وVerizon وBroadcom. وآخر عنوان فDecrypt كيتكلم على 6 شركات أخرى، منهم Wells Fargo وCisco وIntuit. والإعلانات ما شرحاتش الأسباب.<br><br>الخلفية: ترخيص من SEC (إعفاء TSV) كيخلي منصات تتداول أسهم مرمّزة بلا ما تتسجل كبورصات. الإعفاء كيفرض أن الشركة المعنية تتبلغ وتقدر تعترض. وNasdaq قالت أنها غتخرج أسهمها من هاد الإعفاء.<br><br>قراءتي (فرضيات ماشي حقائق): أولا، الرموز اللي كتتداول كتتصاوب من طرف ثالث ماشي من الشركة، وهادشي كيطرح سؤال: شكون كيضمن الحقوق (الأرباح، التصويت)؟ ثانيا، الشركات غالبا كتفضل تتحكم فكيفاش كيتعرض سهمها وبأي سمعة. ثالثا، هاد الاعتراض ماشي رفض للتقنية كاملة: Securitize مثلا قالت أن الشركات ممكن تعترض على منصة وحدة بلا ما ترفض الترميز. ومن اللافت أن النسخة الأخيرة من الإعلان كتقول أن الترميز ممكن يكون من الشركة نفسها، وهادشي كيعطيها دور مباشر أكبر.<br><br>الأرقام للسياق: قيمة الأسهم المرمّزة حوالي 3.5 مليار دولار حسب The Block، وصندوق النقد الدولي لاحظ طلب حقيقي خصوصا خارج ساعات السوق، ولكن مع تقلب وسيولة ضعيفة.<br><br>الخلاصة: الترميز كيدخل لـWall Street من باب التنظيم، ولكن موافقة الشركات نفسها بقات عقبة. غنتتبعو واش غتتغير الصيغة وتولي الشركات هي اللي ترمّز.<br><br>تحليل مبني على تقارير 15-25 أكتوبر 2026، ماشي نصيحة مالية.",d:"تحليل · 26 أكتوبر 2026"},
 {id:1,cat:"بيتكوين",hot:1,t:"تحليل: شنو كيقولو لينا 436 مليون دولار من التصفيات؟",s:"حوالي 93% من التصفيات كانت ديال مراكز الشراء، وهادشي كيعني بزاف.",b:"فـ 24 أكتوبر نزلات بيتكوين لحوالي 79,280 دولار، وتصفيات 4 ساعات وصلات 436.44 مليون دولار. المثير هو التوزيع: 404.15 مليون منها كانت مراكز شراء بالرافعة، يعني تقريبا 93%.<br><br>هادشي كيبين بلي السوق كان مزدحم فجهة وحدة: بزاف ديال المتداولين كانو مراهنين على الصعود بالاستدانة. ملي السعر كينزل شوية، المنصة كتسد المراكز بالقوة، وهاد الإغلاق كيزيد يضغط على السعر، وكتولي سلسلة.<br><br>النقطة الأهم: هاد النوع ديال النزول كيكون سريع ولكن ماشي دايما دليل على ضعف أساسي. السعر رجع لقرب 80 ألف فنفس النهار. المتابع الذكي كيشوف حجم الرافعة فالسوق قبل ما يحكم على الحركة.<br><br>تحليل ديال الوقائع المنشورة ليوم 24 أكتوبر 2026، ماشي نصيحة مالية.",d:"تحليل · 24 أكتوبر 2026"},
 {id:2,cat:"أمان",hot:1,t:"تنبيه Electrum: شنو خاصك دير قبل ما تحدث محفظتك",s:"خطوات بسيطة باش ما تطيحش فنسخة مزورة وانت كتحدث.",b:"أعلنات Electrum أن النسخة 4.8.3 كتعالج مشكل أمني خطير، وطلبات من كاع المستعملين يحدثو. التفاصيل التقنية ما كانتش مفصلة، وهادشي عادي فهاد النوع ديال التنبيهات.<br><br>اللحظة اللي كيتم فيها الإعلان عن تحديث أمني هي اللحظة اللي كيستغلها المحتالين كذلك، بنشر نسخ مزورة وروابط مزيفة. لهادا خاصك:<br>1. تحمل غير من الموقع الرسمي، وكتكتب العنوان بيدك.<br>2. تتحقق من التوقيع الرقمي للملف، حيت الموقع كيوفر خطوات ديال هاد التحقق.<br>3. ما تتبعش رابط جاك فرسالة ولا تعليق.<br>4. تخزن العبارة السرية بعيد على الكمبيوتر.<br><br>القاعدة العامة: التحديث السريع ضروري، ولكن التحديث من المصدر الصحيح أهم.",d:"تحليل · 24 أكتوبر 2026"},
 {id:3,cat:"DeFi",hot:1,t:"قراءة فهجوم Initia: كيفاش كيتخلقو أرصدة بلا غطاء؟",s:"المهاجم ما لمسش عرض عملة INIT، ولكن خلق أصول مزيفة فأماكن أخرى.",b:"حسب تحديث المشروع، خلل برمجي خلا المهاجم يتجاوز فحوصات الأمان ويخلق أرصدة ما عندها غطاء، بلا ما يتغير عرض INIT نفسها. حوالي 2.7 مليون دولار خرجات وتحولات لـ 1,135.52 ETH، وهادشي كيعني سعر تقريبي 2,378 دولار للوحدة.<br><br>الدرس هنا: ملي كتكون أصول ممثلة (مثلا عبر جسور ولا سلاسل فرعية)، الخطر ماشي دايما فالعملة الأصلية، ولكن فالمنطق اللي كيربط بين الأصل الحقيقي ونسخته. إلا تكسر هاد الفحص، النسخة كتولي بلا قيمة.<br><br>شنو كيقدر دير المستخدم: يتتبع إعلانات المشروع الرسمية، ما يتسرعش يبيع ولا يشري وسط الأزمة، ويفهم شنو كيرتبط بشنو قبل ما يحط فلوسو. المشروع قال بلي الإصلاح والتدقيق غياخدو عدة أيام والشبكة موقفة.",d:"تحليل · 24 أكتوبر 2026"},
@@ -175,10 +180,21 @@ function showTab(t){
 }
 var lv=[];
 function ago(iso){var m=Math.round((Date.now()-new Date(iso))/60000);if(isNaN(m))return "";if(m<60)return "قبل "+Math.max(m,1)+" دقيقة";var h=Math.round(m/60);if(h<24)return "قبل "+h+" ساعة";return "قبل "+Math.round(h/24)+" يوم"}
+var lvlist=[];
 function lvrender(){
   var q=$("lq").value.trim().toLowerCase();
-  var l=lv.filter(function(a){return!q||a.title.toLowerCase().indexOf(q)>-1||a.source.toLowerCase().indexOf(q)>-1});
-  $("lrows").innerHTML=l.map(function(a){return '<a class="lrow" href="'+esc(a.url)+'" target="_blank" rel="noopener noreferrer"><div class="meta"><span class="tag">'+esc(a.source)+'</span><span>'+ago(a.published)+'</span></div><h3>'+esc(a.title)+'</h3></a>'}).join("")||'<div class="empty">ما كاين حتى خبر</div>';
+  lvlist=lv.filter(function(a){return!q||a.title.toLowerCase().indexOf(q)>-1||a.source.toLowerCase().indexOf(q)>-1});
+  $("lrows").innerHTML=lvlist.map(function(a,i){return '<div class="lrow"><div class="meta"><span class="tag">'+esc(a.source)+'</span><span>'+ago(a.published)+'</span></div><a href="'+esc(a.url)+'" target="_blank" rel="noopener noreferrer"><h3>'+esc(a.title)+'</h3></a><p class="tr" id="tr'+i+'"></p><button class="btn trb" data-t="'+i+'">🌐 ترجم</button></div>'}).join("")||'<div class="empty">ما كاين حتى خبر</div>';
+}
+function trShow(i,t){var e=$("tr"+i);if(e)e.textContent=t}
+function trDo(i){
+  var a=lvlist[i];if(!a)return;
+  var c=cget("tr:"+a.title,6048e5);if(c){trShow(i,c);return}
+  trShow(i,"كنترجم…");
+  fetch("https://api.mymemory.translated.net/get?q="+encodeURIComponent(a.title)+"&langpair=en|ar")
+  .then(function(r){return r.json()})
+  .then(function(d){if(String(d.responseStatus)!="200"||!d.responseData||!d.responseData.translatedText)throw 0;var t=d.responseData.translatedText+" (ترجمة آلية)";cset("tr:"+a.title,t);trShow(i,t)})
+  .catch(function(){trShow(i,"تعذرت الترجمة دابا (ممكن وصلنا للحد اليومي).")});
 }
 var FEEDS=[["CoinDesk","https://www.coindesk.com/arc/outboundfeeds/rss"],["Cointelegraph","https://cointelegraph.com/rss"],["Decrypt","https://decrypt.co/feed"]];
 function isoD(s){var d=new Date(String(s).replace(" ","T")+"Z");return isNaN(d)?new Date().toISOString():d.toISOString()}
@@ -206,6 +222,7 @@ function lvload(){
 }
 $("tabLive").onclick=function(){showTab("live")};
 $("lq").addEventListener("input",lvrender);
+$("lrows").addEventListener("click",function(e){var b=e.target.closest("[data-t]");if(b)trDo(+b.dataset.t)});
 $("tabNews").onclick=function(){showTab("news")};
 $("tabMarket").onclick=function(){showTab("market")};
 $("mq").addEventListener("input",mrender);
