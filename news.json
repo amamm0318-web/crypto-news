@@ -1,6 +1,24 @@
 {
- "updated": "2026-10-27T00:21:49.068398+00:00",
+ "updated": "2026-10-27T06:08:22.192043+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Ripple gets a final go-ahead to launch its own U.S. national trust bank",
+   "url": "https://www.coindesk.com/markets/2026/10/27/ripple-gets-a-final-go-ahead-to-launch-its-own-u-s-national-trust-bank",
+   "published": "2026-10-27T04:28:49+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "RedotPay weighs confidential US IPO filing by year-end: Bloomberg",
+   "url": "https://cointelegraph.com/news/redotpay-weighs-confidential-us-ipo-filing-by-year-end-bloomberg?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-27T04:26:51+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine",
+   "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-27T01:55:03+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Ripple wins final US approval for national trust bank",
@@ -224,22 +242,10 @@
    "published": "2026-10-26T11:05:31+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "BTC price risks $80K loss into FOMC, earnings: Three things to know in Bitcoin this week",
-   "url": "https://cointelegraph.com/markets/btc-price-risks-80k-loss-into-fomc-earnings-three-things-to-know-in-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-26T10:49:55+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Calpers pulls back from big tech as AI jitters deepen neocloud sell-off",
    "url": "https://www.coindesk.com/markets/2026/10/26/calpers-pulls-back-from-big-tech-as-ai-jitters-deepen-neocloud-sell-off",
    "published": "2026-10-26T10:33:00+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Securitize’s tokenized stock value halves as Circle widens lead",
-   "url": "https://cointelegraph.com/markets/securitizes-tokenized-stock-circle-lead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-26T10:25:01+00:00"
   },
   {
    "source": "CoinDesk",
@@ -264,12 +270,6 @@
    "title": "Bitcoin wallet bug let rogue servers steal funds when users tried to speed up payments",
    "url": "https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments",
    "published": "2026-10-26T05:15:20+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
-   "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
-   "published": "2026-10-26T04:37:02+00:00"
   }
  ]
 }
