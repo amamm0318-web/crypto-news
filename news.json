@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-26T20:58:36.715332+00:00",
+ "updated": "2026-10-27T00:21:49.068398+00:00",
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Ripple wins final US approval for national trust bank",
+   "url": "https://cointelegraph.com/news/ripple-wins-final-us-approval-for-national-trust-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-27T00:06:41+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Canada’s Draft Stablecoin Rules Cap Redemption Fees at 1% and Ban Yield",
+   "url": "https://decrypt.co/381889/canada-draft-stablecoin-rules-redemption-fees-ban-yield",
+   "published": "2026-10-26T22:16:03+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "OpenAI Launches GPT-6.1 Terra, Its Half-Good AI Model at Half the Price",
+   "url": "https://decrypt.co/381883/openai-launches-gpt-6-1-terra-half-good-half-price",
+   "published": "2026-10-26T21:46:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "US OCC calls on community banks to become payment stablecoin issuers",
+   "url": "https://cointelegraph.com/news/occ-community-banks-stablecoin-issuers-genius-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-26T21:38:30+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Injective launches onchain futures market tracking Nvidia GPU rental costs",
+   "url": "https://cointelegraph.com/news/injective-launches-onchain-futures-market-tracking-nvidia-gpu-rental-costs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-26T21:23:32+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Unitree Stock Jumps as Investors Bet Chatbot AI Will Finally Give Robots a Brain",
+   "url": "https://decrypt.co/381871/unitree-stock-jumps-investors-bet-chatbot-ai-robots-brain",
+   "published": "2026-10-26T21:16:03+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
@@ -164,24 +200,6 @@
    "published": "2026-10-26T13:12:41+00:00"
   },
   {
-   "source": "Decrypt",
-   "title": "Bitcoin Dips Below $80,000 Ahead of Fed Decision, Midterms",
-   "url": "https://decrypt.co/381802/bitcoin-dips-below-80000-ahead-of-fed-decision-midterms",
-   "published": "2026-10-26T13:02:43+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Bitcoin’s Bear Market Is Over, Galaxy Research Says: 'Now Is an Attractive Time to Buy'",
-   "url": "https://decrypt.co/381786/bitcoin-bear-market-is-over-galaxy-research-says",
-   "published": "2026-10-26T13:01:02+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Morning Minute: Bitcoin Breaks Below $80,000 as Iran Fears Hit the Weekend",
-   "url": "https://decrypt.co/381797/morning-minute-bitcoin-breaks-below-80000-as-iran-fears-hit-the-weekend",
-   "published": "2026-10-26T12:16:12+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "A $68 million bitcoin bet is targeting a post-midterm election breakout to $90,000",
    "url": "https://www.coindesk.com/daybook-us/2026/10/26/a-usd68-million-bitcoin-bet-is-targeting-a-post-midterm-election-breakout-to-usd90-000",
@@ -230,12 +248,6 @@
    "published": "2026-10-26T09:14:47+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Bitcoin ETFs break 2-week outflow streak with $301M comeback",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-rebound-weekly-inflow-301-million?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-26T08:20:49+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Over 11 million bitcoin has no known owner. Here's what it means",
    "url": "https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying",
@@ -254,22 +266,10 @@
    "published": "2026-10-26T05:15:20+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Musk warns over 200 AI neoclouds face ‘guppy-level death’",
-   "url": "https://cointelegraph.com/news/musk-warns-over-200-ai-neoclouds-face-guppy-level-death?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-26T05:13:33+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Bitcoin slips under $80,000 as traders de-risk ahead of Fed meeting",
    "url": "https://www.coindesk.com/markets/2026/10/26/bitcoin-slips-under-usd80-000-as-traders-de-risk-ahead-of-fed-meeting",
    "published": "2026-10-26T04:37:02+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Hong Kong names Nasdaq-listed Solana Company a strategic enterprise",
-   "url": "https://cointelegraph.com/news/hong-kong-names-nasdaq-listed-solana-company-a-strategic-enterprise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-26T03:21:26+00:00"
   }
  ]
 }
