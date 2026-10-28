@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-27T23:40:29.146066+00:00",
+ "updated": "2026-10-28T05:18:58.977006+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Bithumb hacked through employee system as South Korean financial firms face cyberattacks",
+   "url": "https://www.coindesk.com/tech/2026/10/28/bithumb-hacked-through-employee-system-as-south-korean-financial-firms-face-cyberattacks",
+   "published": "2026-10-28T05:10:36+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin nears $81,000 ahead of Fed decision as ZEC jumps 8%",
+   "url": "https://www.coindesk.com/markets/2026/10/28/bitcoin-nears-usd81-000-ahead-of-fed-decision-as-zec-jumps-8",
+   "published": "2026-10-28T04:15:20+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Robinhood’s Tenev warns US tokenization uncertainty deters ‘serious assets’",
+   "url": "https://cointelegraph.com/news/robinhoods-tenev-warns-us-tokenization-uncertainty-deters-serious-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-28T03:55:57+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Coinbase says user funds are safe after third-party vendor exposes customer contact info",
+   "url": "https://www.coindesk.com/tech/2026/10/28/coinbase-says-customer-funds-are-safe-after-third-party-vendor-exposes-customer-contact-info",
+   "published": "2026-10-28T03:11:14+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bithumb discloses data leak after internal system breach: Report",
+   "url": "https://cointelegraph.com/news/bithumb-discloses-data-leak-after-internal-system-breach-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-28T02:18:47+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Discord is making public chats searchable on Google: How to opt out",
+   "url": "https://cointelegraph.com/news/discord-is-making-public-chats-searchable-on-google-how-to-opt-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-28T00:47:04+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "VanEck launches diversified ETF combining stocks, bonds and Bitcoin exposure",
@@ -60,12 +96,6 @@
    "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
    "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
    "published": "2026-10-27T19:46:02+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-27T19:36:13+00:00"
   },
   {
    "source": "Cointelegraph",
@@ -240,36 +270,6 @@
    "title": "Japan's top yen stablecoin falls short of its target in a disappointing first year",
    "url": "https://www.coindesk.com/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
    "published": "2026-10-27T11:37:52+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin drops below $80,000 as crypto ignores Asian tech rally, Fed meeting begins",
-   "url": "https://www.coindesk.com/markets/2026/10/27/bitcoin-drops-below-usd80-000-as-crypto-ignores-asian-tech-rally-fed-meeting-begins",
-   "published": "2026-10-27T11:32:45+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto wallet maker Keystone to destroy almost 19,000 devices after security breach",
-   "url": "https://www.coindesk.com/business/2026/10/27/crypto-wallet-maker-keystone-to-destroy-almost-19-000-devices-after-security-breach",
-   "published": "2026-10-27T11:13:54+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Investor who called for AI pivot in 2023 says bitcoin is going to $57,000",
-   "url": "https://www.coindesk.com/markets/2026/10/27/investor-who-called-for-ai-pivot-in-2023-says-bitcoin-is-going-to-usd57-000",
-   "published": "2026-10-27T10:57:51+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Zcash co-founder calls to stop funding ‘over $125M’ grants program",
-   "url": "https://cointelegraph.com/news/zcash-co-founder-ending-zcg-funding-125m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-27T10:00:31+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bloom bot hackers loot $953K faster than you can microwave popcorn",
-   "url": "https://cointelegraph.com/news/bloom-bot-hackers-953k-faster-popcorn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-27T09:07:37+00:00"
   }
  ]
 }
