@@ -1,6 +1,42 @@
 {
- "updated": "2026-10-28T23:05:08.722618+00:00",
+ "updated": "2026-10-29T05:29:15.959051+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Utah charges predictions platform Kalshi with illegal gambling",
+   "url": "https://www.coindesk.com/policy/2026/10/29/utah-charges-predictions-platform-kalshi-with-illegal-gambling",
+   "published": "2026-10-29T05:02:37+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Your fridge could one day stake Ether, launch memecoins: CFTC chair",
+   "url": "https://cointelegraph.com/news/a-fridge-that-launches-memecoins-cftc-floats-ai-crypto-future?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T04:39:49+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin dips below $80,000 as Samsung-led tech jitters and a hawkish Fed weigh on crypto",
+   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-dips-below-usd80-000-as-samsung-led-risk-aversion-in-tech-and-a-hawkish-fed-weigh-on-crypto",
+   "published": "2026-10-29T03:32:43+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Mystery Wall Street Journal ad sparks new fight over tokenized stocks",
+   "url": "https://www.coindesk.com/policy/2026/10/28/mystery-wall-street-journal-ad-sparks-new-fight-over-tokenized-stocks",
+   "published": "2026-10-29T03:21:24+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police",
+   "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T03:16:32+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Fed’s hawkish rate hold keeps pressure on Bitcoin: Analysts",
+   "url": "https://cointelegraph.com/markets/bitcoin-faces-fresh-pressure-after-feds-hawkish-rate-hold-analysts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T01:12:01+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
@@ -30,12 +66,6 @@
    "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
    "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
    "published": "2026-10-28T20:16:03+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-28T19:46:45+00:00"
   },
   {
    "source": "Decrypt",
@@ -236,40 +266,10 @@
    "published": "2026-10-28T11:05:33+00:00"
   },
   {
-   "source": "CoinDesk",
-   "title": "Google to preview crypto custody security system as AI threats grow",
-   "url": "https://www.coindesk.com/tech/2026/10/28/google-to-preview-crypto-custody-security-system-as-ai-threats-grow",
-   "published": "2026-10-28T11:00:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Nearly 90% of large businesses are embracing tokenized cash to speed up payments: DBS",
-   "url": "https://www.coindesk.com/business/2026/10/28/nearly-90-of-large-businesses-are-embracing-tokenized-cash-to-speed-up-payments-dbs",
-   "published": "2026-10-28T10:41:51+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Brazil’s largest lender becomes first bank to formalize crypto brokerage under new rules",
-   "url": "https://www.coindesk.com/policy/2026/10/28/brazil-s-largest-lender-becomes-first-bank-to-formalize-crypto-brokerage-under-new-rules",
-   "published": "2026-10-28T10:07:54+00:00"
-  },
-  {
    "source": "Cointelegraph",
    "title": "Bitcoin price eyes $82K as Morgan Stanley strategist says most of correction is over",
    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-82k-as-morgan-stanley-strategist-says-most-of-correction-is-over?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-10-28T09:56:00+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin ETF inflows climb to $176M as BTC rebounds above $80K",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-176-million-inflow-sentiment-rebounds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-28T07:57:18+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Coinbase denies systems breach, says vendor exposed customer data",
-   "url": "https://cointelegraph.com/news/coinbase-analytics-provider-customer-data?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-28T07:42:55+00:00"
   }
  ]
 }
