@@ -1,6 +1,78 @@
 {
- "updated": "2026-10-29T18:54:52.106479+00:00",
+ "updated": "2026-10-29T23:12:50.592559+00:00",
  "items": [
+  {
+   "source": "Decrypt",
+   "title": "Binance Hacker Hunts for Exit Ramps as DeFi Exchanges Pause Markets",
+   "url": "https://decrypt.co/382194/binance-hack-exit-ramps-defi-exchange-ethereum",
+   "published": "2026-10-29T22:57:48+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Tampered Ledger reported in Singapore a month before news broke: Asia Express",
+   "url": "https://cointelegraph.com/magazine/tampered-ledger-reported-in-singapore-a-month-before-news-broke-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T22:31:07+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Binance Drained of $5.5 Billion in Suspected Hack, Tether and Circle Freeze $1.8 Billion",
+   "url": "https://decrypt.co/382191/binance-suspected-hack-5-billion-tether-circle-freeze-crypto",
+   "published": "2026-10-29T21:36:24+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Live Updates: Binance hit in largest crypto hack in history",
+   "url": "https://cointelegraph.com/news/binance-linked-wallet-faces-possible-exploit-blockchain-researcher-warns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T21:24:36+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Binance loses $5.7 billion in largest crypto hack to date",
+   "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+   "published": "2026-10-29T21:12:45+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Coinbase Swings to $719 Million Q3 Profit on Crypto Gains",
+   "url": "https://decrypt.co/382188/coinbase-beats-719-million-q3-profit-crypto-gains",
+   "published": "2026-10-29T20:46:43+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T19:58:57+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Public companies double share of blockchain revenue since 2022: Report",
+   "url": "https://cointelegraph.com/news/public-companies-double-share-of-blockchain-revenue-since-2022-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T19:53:14+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Chrome Can Now Pull Details From Your Gmail to Fill Out Web Forms",
+   "url": "https://decrypt.co/382183/chrome-pull-details-from-your-gmail-web-forms",
+   "published": "2026-10-29T19:46:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Polymarket suspended trading amid reports of user funds being drained",
+   "url": "https://cointelegraph.com/news/polymarket-suspends-trading-user-funds-compromised?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-10-29T19:23:03+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Polymarket suspends trading after third-party breach leads to user losses",
+   "url": "https://www.coindesk.com/markets/2026/10/29/polymarket-suspends-trading-after-third-party-breach-leads-to-user-losses",
+   "published": "2026-10-29T18:55:35+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Polymarket Pauses Trading as Prediction Market Investigates Security Incident",
+   "url": "https://decrypt.co/382185/polymarket-pauses-trading-prediction-market-security-incident",
+   "published": "2026-10-29T18:53:44+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "Hackers Publish Work Details of 41,000 Homeland Security Employees",
@@ -140,12 +212,6 @@
    "published": "2026-10-29T13:55:42+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-29T13:51:06+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Walmart, Eli Lilly join growing pushback against OKX–ICE tokenized stock plans",
    "url": "https://www.coindesk.com/business/2026/10/29/walmart-eli-lilly-join-growing-pushback-against-okx-ice-tokenized-stock-plans",
@@ -170,12 +236,6 @@
    "published": "2026-10-29T13:01:02+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Polygon expands Open Money Stack to Solana, after Tron rollout",
-   "url": "https://cointelegraph.com/news/polygon-brings-open-money-stack-payments-services-to-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-29T13:00:00+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Justin Sun's HTX Agrees to Leave UK in Settlement With Financial Watchdog",
    "url": "https://decrypt.co/382138/justin-suns-htx-agrees-to-leave-uk-in-settlement-with-financial-watchdog",
@@ -194,28 +254,10 @@
    "published": "2026-10-29T12:51:48+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Chainalysis traces North Korean crypto cash-outs through Garantex",
-   "url": "https://cointelegraph.com/news/chainalysis-dprk-crypto-cash-out-network-ofac-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-29T12:38:03+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Morning Minute: Hedge Funds Left the BTC ETF Trade and Sovereign Wealth Stepped In",
    "url": "https://decrypt.co/382135/morning-minute-hedge-funds-left-the-btc-etf-trade-and-sovereign-wealth-stepped-in",
    "published": "2026-10-29T12:30:38+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Unlimit founder backs Phase blockchain with $45M as mainnet launches",
-   "url": "https://cointelegraph.com/news/unlimit-founder-phase-blockchain-mainnet-launches?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-29T12:30:00+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "HTX agrees to halt unlawful UK crypto promotions after FCA case",
-   "url": "https://cointelegraph.com/news/htx-halt-unlawful-uk-crypto-promotions-fca?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-10-29T12:20:27+00:00"
   },
   {
    "source": "CoinDesk",
@@ -224,52 +266,10 @@
    "published": "2026-10-29T12:18:20+00:00"
   },
   {
-   "source": "CoinDesk",
-   "title": "As $10 billion in bitcoin options near expiry, the tell is in the pricing",
-   "url": "https://www.coindesk.com/daybook-us/2026/10/29/as-usd10-billion-in-bitcoin-options-near-expiry-the-tell-is-in-the-pricing",
-   "published": "2026-10-29T12:04:50+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto",
    "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto",
    "published": "2026-10-29T11:32:51+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump",
-   "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump",
-   "published": "2026-10-29T11:11:48+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets",
-   "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets",
-   "published": "2026-10-29T11:06:40+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Bitcoin Treasury Datavault AI Says It Can’t Access Its BTC, Stock Tanks",
-   "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc",
-   "published": "2026-10-28T21:46:02+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Chip Maker SK Hynix Posts Record Quarter as AI Memory Demand Overwhelms Supply",
-   "url": "https://decrypt.co/382114/sk-hynix-record-quarter-ai-memory-demand",
-   "published": "2026-10-28T21:16:03+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "AI Security Startup Upwind Raises $400M at $3.8B Valuation",
-   "url": "https://decrypt.co/382101/ai-security-startup-upwind-raises-400m",
-   "published": "2026-10-28T20:16:03+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "More Americans Have Tried Crypto, But Few Are Sticking With It: Survey",
-   "url": "https://decrypt.co/382100/more-americans-tried-crypto-few-staying-survey",
-   "published": "2026-10-28T19:46:03+00:00"
   }
  ]
 }
