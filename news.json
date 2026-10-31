@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-30T22:54:51.741407+00:00",
+ "updated": "2026-10-31T02:12:59.416422+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
+   "url": "https://www.coindesk.com/business/2026/10/30/openai-reportedly-cuts-fundraising-target-amid-ai-jitters",
+   "published": "2026-10-31T00:48:56+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Binance hackers raced to move billions before it could be frozen",
@@ -264,12 +270,6 @@
    "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
    "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
    "published": "2026-10-30T04:50:42+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Standard Chartered sees more pain after $6 billion Binance hack sends bitcoin lower",
-   "url": "https://www.coindesk.com/markets/2026/10/30/usd6-billion-binance-hack-sends-bitcoin-ether-tumbling-standard-chartered-sees-more-losses-ahead",
-   "published": "2026-10-30T04:00:43+00:00"
   }
  ]
 }
