@@ -1,6 +1,12 @@
 {
- "updated": "2026-10-31T02:12:59.416422+00:00",
+ "updated": "2026-10-31T09:29:45.559068+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin stolen from Binance tops Tesla’s holdings and is over twice El Salvador’s reserve",
+   "url": "https://www.coindesk.com/markets/2026/10/31/bitcoin-stolen-from-binance-tops-tesla-s-holdings-and-is-over-twice-el-salvador-s-reserve",
+   "published": "2026-10-31T05:01:32+00:00"
+  },
   {
    "source": "CoinDesk",
    "title": "OpenAI reportedly cuts fundraising and valuation targets amid AI jitters",
@@ -264,12 +270,6 @@
    "title": "Binance hack bites India's largest crypto exchange as it curbs futures trading",
    "url": "https://www.coindesk.com/markets/2026/10/30/coindcx-halts-new-crypto-futures-bets-as-binance-incident-disrupts-liquidity",
    "published": "2026-10-30T05:43:07+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Binance hacker splits $1.4 billion of bitcoin into 19 wallets that no one can freeze",
-   "url": "https://www.coindesk.com/markets/2026/10/30/binance-hacker-splits-usd1-4-billion-of-bitcoin-into-19-wallets-that-no-one-can-freeze",
-   "published": "2026-10-30T04:50:42+00:00"
   }
  ]
 }
