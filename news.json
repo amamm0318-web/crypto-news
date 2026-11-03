@@ -1,6 +1,96 @@
 {
- "updated": "2026-11-03T18:20:48.457460+00:00",
+ "updated": "2026-11-03T23:56:07.779990+00:00",
  "items": [
+  {
+   "source": "Decrypt",
+   "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+   "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+   "published": "2026-11-03T23:48:32+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "What voters said about their views on crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+   "published": "2026-11-03T23:19:44+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "US midterms election 2026 live: What they mean for crypto",
+   "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-03T23:01:32+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+   "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+   "published": "2026-11-03T23:00:07+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Tether Holds 150,000 Bitcoin, CEO Says—About 50,000 More Than Its Reserve Report Shows",
+   "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+   "published": "2026-11-03T22:46:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-03T22:39:18+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+   "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+   "published": "2026-11-03T22:14:44+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+   "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+   "published": "2026-11-03T21:50:17+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+   "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-03T21:47:20+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+   "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+   "published": "2026-11-03T21:16:03+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+   "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+   "published": "2026-11-03T20:36:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+   "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-03T20:24:55+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+   "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+   "published": "2026-11-03T19:46:03+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+   "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-03T19:38:19+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "CFTC Lets Traders Bet on Stocks With Crypto-Style Perpetual Futures",
+   "url": "https://decrypt.co/382464/cftc-traders-bet-stocks-with-crypto-style-perpetual-futures",
+   "published": "2026-11-03T19:16:02+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "Brazil's Biggest Bitcoin Exchange Says It Will Refund Users After a $40 Million Hack",
@@ -117,12 +207,6 @@
   },
   {
    "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-03T13:50:51+00:00"
-  },
-  {
-   "source": "Cointelegraph",
    "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
    "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-03T13:15:47+00:00"
@@ -159,7 +243,7 @@
   },
   {
    "source": "CoinDesk",
-   "title": "ETHGas wants to bring Wall Street to public Ethereum by selling advance block reservations",
+   "title": "ETHGas wants to bring Wall Street to public Ethereum with institutional controls",
    "url": "https://www.coindesk.com/business/2026/11/03/ethgas-courts-wall-street-with-ethereum-blockspace-but-compensation-for-missed-trades-is-zero",
    "published": "2026-11-03T12:01:05+00:00"
   },
@@ -170,40 +254,10 @@
    "published": "2026-11-03T11:32:02+00:00"
   },
   {
-   "source": "CoinDesk",
-   "title": "Bitcoin steadies after dip to $76,300 as ETF outflows and midterm elections weigh on crypto",
-   "url": "https://www.coindesk.com/markets/2026/11/03/bitcoin-steadies-after-dip-to-usd76-300-as-etf-outflows-and-midterm-elections-weigh-on-crypto",
-   "published": "2026-11-03T11:28:00+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Liquid Network Restores Full Bitcoin Backing Two Months After $320M Exploit",
-   "url": "https://decrypt.co/382397/liquid-network-restores-full-bitcoin-backing-two-months-after-320m-exploit",
-   "published": "2026-11-03T11:22:10+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Liquid’s bitcoin IOUs are fully backed again after a $320 million exploit",
-   "url": "https://www.coindesk.com/markets/2026/11/03/liquid-s-bitcoin-ious-are-fully-backed-again-after-a-usd320-million-exploit",
-   "published": "2026-11-03T11:12:12+00:00"
-  },
-  {
    "source": "Cointelegraph",
    "title": "France postpones 2027 budget vote, crypto exit-tax proposals scrapped",
    "url": "https://cointelegraph.com/news/france-postpones-2027-budget-vote-reject-crypto-exit-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-03T10:49:26+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "North Korea Denies $6.3B Binance Hack, Calls FBI Finding a 'Political Provocation'",
-   "url": "https://decrypt.co/382394/north-korea-denies-6-3b-binance-hack-calls-fbi-finding-a-political-provocation",
-   "published": "2026-11-03T10:18:48+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Tether holds 150,000 bitcoin worth $11.5 billion, CEO Paolo Ardoino says",
-   "url": "https://www.coindesk.com/business/2026/11/03/tether-holds-150-000-bitcoin-worth-usd11-5-billion-ceo-paolo-ardoino-says",
-   "published": "2026-11-03T10:15:53+00:00"
   },
   {
    "source": "Cointelegraph",
@@ -216,60 +270,6 @@
    "title": "ARK buys $17M in Coinbase, Circle shares while trimming Bullish",
    "url": "https://cointelegraph.com/news/ark-buys-coinbase-circle-trims-bullish?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-03T08:35:13+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Kraken restricts accounts amid suspected $133M EU crypto theft",
-   "url": "https://cointelegraph.com/news/zachxbt-eu-crypto-theft-133m-alleged-cover-up?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-03T08:18:22+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "BlackRock’s IBIT sees biggest Bitcoin ETF outflows since June",
-   "url": "https://cointelegraph.com/markets/blackrocks-ibit-biggest-bitcoin-etf-outflow-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-03T07:49:51+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Crypto.com to withdraw Hong Kong consumer app citing regulatory changes",
-   "url": "https://cointelegraph.com/news/crypto-com-hong-kong-app-shutdown-license-pending?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-03T05:10:19+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Australia lifts rates to 18-year high as AI boom, energy costs fuel inflation",
-   "url": "https://cointelegraph.com/markets/australia-lifts-rates-as-ai-boom-energy-costs-fuel-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-03T04:14:32+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Claude Fable 5.5, GPT 6.2 Astra Could Be Right Around the Corner, Leaks Suggest",
-   "url": "https://decrypt.co/382390/claude-mythos-fable-5-5-gpt-6-2-astra-leaks",
-   "published": "2026-11-02T23:10:25+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
-   "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
-   "published": "2026-11-02T22:16:02+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
-   "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
-   "published": "2026-11-02T21:16:03+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
-   "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
-   "published": "2026-11-02T20:36:03+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
-   "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
-   "published": "2026-11-02T19:46:02+00:00"
   }
  ]
 }
