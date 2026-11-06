@@ -1,17 +1,173 @@
 {
- "updated": "2026-11-06T07:50:38.470289+00:00",
+ "updated": "2026-11-06T15:50:57.229315+00:00",
  "items": [
   {
+   "source": "CoinDesk",
+   "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+   "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+   "published": "2026-11-06T15:26:38+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+   "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+   "published": "2026-11-06T14:33:49+00:00"
+  },
+  {
    "source": "Cointelegraph",
-   "title": "Chainalysis says breach exposed password hashes and live tokens",
-   "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T06:54:34+00:00"
+   "title": "What Democrats’ US midterm sweep means for the CLARITY Act",
+   "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T14:30:00+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "$3.1B in Stolen Binance Crypto Has Yet to Be Laundered: Elliptic",
+   "url": "https://decrypt.co/382711/3-1b-in-stolen-binance-crypto-has-yet-to-be-laundered-elliptic",
+   "published": "2026-11-06T14:04:18+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+   "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T13:57:14+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Tesla to Wind Down Cybertruck Production as Elon Musk Pivots to Robotaxis and AI",
+   "url": "https://decrypt.co/382703/tesla-to-wind-down-cybertruck-production-as-elon-musk-pivots-to-robotaxis-and-ai",
+   "published": "2026-11-06T13:53:04+00:00"
   },
   {
    "source": "Cointelegraph",
    "title": "Here’s what happened in crypto today",
    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T06:04:41+00:00"
+   "published": "2026-11-06T13:33:00+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+   "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+   "published": "2026-11-06T13:31:54+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Morning Minute: Bitcoin Erases Election Rally as AI Stocks Crater",
+   "url": "https://decrypt.co/382700/morning-minute-bitcoin-erases-election-rally-as-ai-stocks-crater",
+   "published": "2026-11-06T13:29:20+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+   "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T13:23:08+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+   "published": "2026-11-06T12:30:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+   "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T12:15:28+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Live updates: Bitcoin slips further after blowout October jobs numbers",
+   "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+   "published": "2026-11-06T11:58:40+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
+   "published": "2026-11-06T11:49:35+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+   "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T11:26:30+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+   "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T11:16:53+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Greece approves 10% tax on crypto gains starting in 2027",
+   "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T11:05:36+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+   "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+   "published": "2026-11-06T10:57:06+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+   "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T10:47:33+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+   "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T10:40:57+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+   "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+   "published": "2026-11-06T10:13:27+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
+   "published": "2026-11-06T09:53:27+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Zcash NU7 upgrade goes live, leaves 12,224 ZEC stranded in Sprout pool",
+   "url": "https://cointelegraph.com/news/zcash-nu7-upgrade-15m-sprout-funds-unspendable?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T09:00:36+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
+   "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
+   "published": "2026-11-06T08:47:42+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Hyperliquid Strategies seeks futures registration for perps",
+   "url": "https://cointelegraph.com/news/nasdaq-hyperliquid-strategies-futures-broker-license-onchain-perps?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T08:42:54+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin, Ether ETFs post $530M outflows as election gains evaporate",
+   "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-lose-post-election-gains-erased?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T08:19:18+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
+   "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
+   "published": "2026-11-06T08:04:52+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Chainalysis says breach exposed password hashes and live tokens",
+   "url": "https://cointelegraph.com/news/chainalysis-cyberattack-password-hashes-live-tokens-exposed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-06T06:54:34+00:00"
   },
   {
    "source": "CoinDesk",
@@ -38,40 +194,16 @@
    "published": "2026-11-06T01:30:00+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
-   "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T00:19:49+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
    "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
    "published": "2026-11-05T23:06:02+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "American Bitcoin’s $126M profit masks mining pressure as rivals turn to AI",
-   "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T22:43:18+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
-   "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T22:18:42+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
    "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
    "published": "2026-11-05T22:16:03+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Crypto ally French Hill wins reelection but set to lose House chair",
-   "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T21:39:19+00:00"
   },
   {
    "source": "Decrypt",
@@ -104,12 +236,6 @@
    "published": "2026-11-05T19:16:03+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
-   "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T19:02:19+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
    "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
@@ -122,22 +248,10 @@
    "published": "2026-11-05T18:48:40+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
-   "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T18:32:45+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Trump-Backed American Bitcoin Turns a Profit as Bitcoin Rise Lifts Books",
    "url": "https://decrypt.co/382633/trump-american-bitcoin-q3-profit-bitcoin-lifts-books",
    "published": "2026-11-05T18:25:31+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Europe’s largest asset manager Amundi tokenizes equity index fund on Ethereum",
-   "url": "https://cointelegraph.com/news/amundi-tokenizes-european-equity-index-fund-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T18:09:38+00:00"
   },
   {
    "source": "Decrypt",
@@ -146,130 +260,16 @@
    "published": "2026-11-05T18:05:21+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Paraguay president resigns after collapse of Ueno digital bank",
-   "url": "https://cointelegraph.com/news/paraguay-president-resigns-after-collapse-ueno-digital-bank?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T17:40:25+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Hollywood Studios Quietly Ban Staff From Betting on Prediction Markets: Report",
    "url": "https://decrypt.co/382626/hollywood-studios-quietly-ban-staff-from-betting-on-prediction-markets-report",
    "published": "2026-11-05T17:31:10+00:00"
   },
   {
-   "source": "Decrypt",
-   "title": "Solana Labs’ Leap Launches Mobile App for Trading Tokenized Stocks and Crypto",
-   "url": "https://decrypt.co/382609/solana-labs-leap-launches-mobile-app-tokenized-stocks-crypto",
-   "published": "2026-11-05T17:01:03+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
    "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
    "published": "2026-11-05T16:58:21+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
-   "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
-   "published": "2026-11-05T16:49:08+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin crashes 6% to 7-week low as US stocks erase election gains",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-crashes-7-week-low-stocks-election-gains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T16:48:41+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Democrats to Push Broader Crypto Market Structure Bill After Sweeping US Midterms: Report",
-   "url": "https://decrypt.co/382602/democrats-to-push-broader-crypto-market-structure-bill-after-sweeping-us-midterms-report",
-   "published": "2026-11-05T16:37:20+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Bitcoin Erases Election Rally as AI Stocks Plunge, $428 Million in Crypto Longs Get Wiped Out",
-   "url": "https://decrypt.co/382612/bitcoin-erases-election-rally-ai-stocks-plunge-428-million-crypto-longs",
-   "published": "2026-11-05T16:29:11+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
-   "published": "2026-11-05T16:13:32+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance’s",
-   "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
-   "published": "2026-11-05T14:21:50+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Kraken parent Payward and its clients buy AAVE tokens in DeFi investment push",
-   "url": "https://www.coindesk.com/business/2026/11/05/kraken-parent-payward-and-its-clients-buy-aave-tokens-in-defi-investment-push",
-   "published": "2026-11-05T14:00:00+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Sam Altman Says It's 'Fucking Annoying' His RAM Comments Were Taken Out of Context",
-   "url": "https://decrypt.co/382606/sam-altman-says-its-fucking-annoying-his-ram-comments-were-taken-out-of-context",
-   "published": "2026-11-05T13:37:25+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Blockchain is ‘perfect solution’ for AI agent trust, VeChain CEO says",
-   "url": "https://cointelegraph.com/news/blockchain-is-perfect-solution-for-ai-agent-trust-vechain-ceo-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T13:34:57+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Can decentralized phone networks power the AI revolution?",
-   "url": "https://cointelegraph.com/magazine/can-decentralized-phone-networks-power-the-ai-revolution?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T13:30:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Google could take stake in bitcoin miner TeraWulf’s $19 billion AI project if Anthropic defaults",
-   "url": "https://www.coindesk.com/tech/2026/11/05/google-could-take-ownership-stake-in-bitcoin-miner-terawulf-s-ai-project-if-anthropic-defaults",
-   "published": "2026-11-05T13:29:40+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces",
-   "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces",
-   "published": "2026-11-05T13:14:05+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Binance cuts SignalPlus access after security warning, urges users to check accounts",
-   "url": "https://www.coindesk.com/tech/2026/11/05/binance-cuts-signalplus-access-after-security-warning-urges-users-to-check-accounts",
-   "published": "2026-11-05T12:55:03+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Ukraine’s central bank opposes crypto bill, citing monetary sovereignty concerns",
-   "url": "https://www.coindesk.com/business/2026/11/05/ukraine-s-central-bank-opposes-crypto-bill-citing-monetary-sovereignty-concerns",
-   "published": "2026-11-05T12:50:57+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Trump’s memecoin ventures derailed CLARITY Act, Scaramucci says",
-   "url": "https://cointelegraph.com/news/scaramucci-trump-memecoins-clarity-act-failure?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-05T12:39:36+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin is resilient, but leverage is missing and demand still tepid",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/05/bitcoin-is-resilient-but-leverage-is-missing-and-demand-still-tepid",
-   "published": "2026-11-05T12:27:04+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin miners are oversold following 35% October rout, VanEck says",
-   "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-miners-are-oversold-following-35-october-rout-says-vaneck",
-   "published": "2026-11-05T11:49:23+00:00"
   }
  ]
 }
