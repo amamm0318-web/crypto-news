@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-07T15:36:26.339962+00:00",
+ "updated": "2026-11-07T20:07:05.774451+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Binance users in some European countries told to pull crypto before fees kick in, with accounts closing by year end",
+   "url": "https://www.coindesk.com/business/2026/11/07/binance-users-in-some-european-countries-told-to-pull-crypto-before-fees-kick-in-with-accounts-closing-by-year-end",
+   "published": "2026-11-07T19:13:16+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+   "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+   "published": "2026-11-07T17:36:46+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+   "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+   "published": "2026-11-07T17:01:03+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+   "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+   "published": "2026-11-07T16:51:00+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
+   "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+   "published": "2026-11-07T16:01:02+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Here’s what happened in crypto today",
@@ -218,18 +248,6 @@
    "published": "2026-11-06T11:49:35+00:00"
   },
   {
-   "source": "Decrypt",
-   "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
-   "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
-   "published": "2026-11-06T10:57:06+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
-   "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
-   "published": "2026-11-06T10:13:27+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
@@ -252,24 +270,6 @@
    "title": "Zcash’s landmark NU7 upgrade goes live, speeding up private payments",
    "url": "https://www.coindesk.com/tech/2026/11/06/zcash-s-landmark-nu7-upgrade-goes-live-speeding-up-private-payments",
    "published": "2026-11-06T05:14:48+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Hyperliquid treasury firm seeking U.S. regulatory nod as a domestic futures platform",
-   "url": "https://www.coindesk.com/policy/2026/11/05/hyperliquid-treasury-firm-seeking-u-s-regulatory-nod-as-a-domestic-futures-platform",
-   "published": "2026-11-06T02:24:23+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
-   "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
-   "published": "2026-11-06T01:30:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
-   "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
-   "published": "2026-11-05T18:59:45+00:00"
   }
  ]
 }
