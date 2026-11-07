@@ -1,17 +1,47 @@
 {
- "updated": "2026-11-07T08:38:09.996554+00:00",
+ "updated": "2026-11-07T15:36:26.339962+00:00",
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-07T14:22:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+   "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-07T14:16:00+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+   "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+   "published": "2026-11-07T14:01:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin holders have received eCash — What can you do with it?",
+   "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-07T13:30:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "US sanctions Canadian money-exchange firms over Iran ties",
+   "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-07T11:10:47+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Suspicious prediction market activity seen before election poll release: NYT",
+   "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-07T09:10:35+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Nvidia may face a more hostile post-election Washington: Report",
    "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-07T07:45:24+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T22:00:15+00:00"
   },
   {
    "source": "Decrypt",
@@ -170,22 +200,10 @@
    "published": "2026-11-06T13:29:20+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
-   "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T13:23:08+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
    "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
-   "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T12:15:28+00:00"
   },
   {
    "source": "CoinDesk",
@@ -198,18 +216,6 @@
    "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
    "published": "2026-11-06T11:49:35+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Binance hackers had 8-week intrusion window before $6.3B exploit: SEAL",
-   "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T11:26:30+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
-   "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T11:16:53+00:00"
   },
   {
    "source": "Decrypt",
@@ -258,12 +264,6 @@
    "title": "Bitcoin developer proposes ‘landmines’ to make quantum thieves lose their own BTC",
    "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
    "published": "2026-11-06T01:30:00+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
-   "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
-   "published": "2026-11-05T23:06:02+00:00"
   },
   {
    "source": "CoinDesk",
