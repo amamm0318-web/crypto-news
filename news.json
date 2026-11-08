@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-08T14:58:03.763922+00:00",
+ "updated": "2026-11-08T19:30:51.031613+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "What the election results mean for crypto: State of Crypto",
+   "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
+   "published": "2026-11-08T19:30:00+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Stablecoin growth has stalled. The payments boom hasn't",
+   "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
+   "published": "2026-11-08T19:16:42+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -258,18 +270,6 @@
    "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
    "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
    "published": "2026-11-06T09:53:27+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Greece approves 10% tax on crypto gains and 15% levy on DeFi income",
-   "url": "https://www.coindesk.com/policy/2026/11/06/greece-approves-10-tax-on-crypto-gains-and-15-levy-on-defi-income",
-   "published": "2026-11-06T08:47:42+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Trump-backed World Liberty Financial plans token buyback after 66% year-to-date slide",
-   "url": "https://www.coindesk.com/business/2026/11/06/trump-backed-world-liberty-financial-plans-token-buyback-after-66-year-to-date-slide",
-   "published": "2026-11-06T08:04:52+00:00"
   }
  ]
 }
