@@ -1,6 +1,42 @@
 {
- "updated": "2026-11-08T23:35:55.546019+00:00",
+ "updated": "2026-11-09T05:55:47.778620+00:00",
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-09T05:44:53+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Zcash devs propose another block time cut days after NU7 upgrade",
+   "url": "https://cointelegraph.com/news/zcash-developers-propose-20-second-blocks-nu7-upgrade?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-09T05:36:08+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
+   "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
+   "published": "2026-11-09T05:16:54+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
+   "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+   "published": "2026-11-09T04:54:39+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
+   "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-09T04:03:08+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
+   "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+   "published": "2026-11-09T03:21:49+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
@@ -24,12 +60,6 @@
    "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
    "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
    "published": "2026-11-08T14:01:03+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-08T13:33:00+00:00"
   },
   {
    "source": "Cointelegraph",
@@ -158,12 +188,6 @@
    "published": "2026-11-06T20:09:18+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
-   "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T20:04:27+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
    "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
@@ -174,12 +198,6 @@
    "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
    "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
    "published": "2026-11-06T19:16:03+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
-   "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-06T18:47:45+00:00"
   },
   {
    "source": "Decrypt",
@@ -252,24 +270,6 @@
    "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
    "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
    "published": "2026-11-06T12:30:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Live updates: Bitcoin flatlines under $76,000 as stock bounce loses steam into the close",
-   "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
-   "published": "2026-11-06T11:58:40+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
-   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-near-usd76-000-after-ai-led-selloff",
-   "published": "2026-11-06T11:49:35+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
-   "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-recovers-usd76-000-level-as-etfs-shed-usd430-million-after-tech-rout",
-   "published": "2026-11-06T09:53:27+00:00"
   }
  ]
 }
