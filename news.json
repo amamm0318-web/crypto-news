@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-11T02:40:35.851921+00:00",
+ "updated": "2026-11-11T10:39:39.369750+00:00",
  "items": [
+  {
+   "source": "Decrypt",
+   "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+   "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
+   "published": "2026-11-11T10:20:53+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+   "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T10:00:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+   "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T09:58:15+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "ECB warns legislative delays could postpone digital euro launch",
+   "url": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T09:03:49+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Stock ETF buyers pounce on dip as Bitcoin funds bleed $1.6 billion",
+   "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-persist-while-equity-investors-buy-the-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T08:55:31+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "SEC enforcement actions fall 24%, crypto cases in spotlight",
+   "url": "https://cointelegraph.com/news/sec-crypto-cases-enforcement-actions-fall-23-2025?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T08:43:30+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T06:00:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
+   "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T05:52:14+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Across Protocol restores website after hackers hijack domain",
+   "url": "https://cointelegraph.com/news/across-protocol-restores-website-after-hackers-hijack-domain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T04:42:30+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Crypto ally Tom Emmer elected House GOP minority whip",
+   "url": "https://cointelegraph.com/news/crypto-ally-tom-emmer-elected-house-gop-minority-whip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-11T03:07:45+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "LNbits rushes emergency patch after reported Bitcoin wallet thefts",
@@ -24,12 +84,6 @@
    "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
    "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
    "published": "2026-11-10T22:46:02+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T22:04:47+00:00"
   },
   {
    "source": "Decrypt",
@@ -68,12 +122,6 @@
    "published": "2026-11-10T20:36:33+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
-   "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T20:26:02+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
    "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
@@ -104,28 +152,10 @@
    "published": "2026-11-10T18:33:37+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
-   "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T18:12:07+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
    "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
    "published": "2026-11-10T17:32:22+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Hot US inflation raises odds of half-point Fed hike in December",
-   "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T17:31:09+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
-   "url": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T17:07:48+00:00"
   },
   {
    "source": "CoinDesk",
@@ -138,12 +168,6 @@
    "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
    "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
    "published": "2026-11-10T16:27:57+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin nears 11-week low after ‘discouraging’ US CPI inflation beat",
-   "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T16:25:03+00:00"
   },
   {
    "source": "CoinDesk",
@@ -182,34 +206,16 @@
    "published": "2026-11-10T14:00:00+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
-   "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T13:40:39+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
    "published": "2026-11-10T13:32:09+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Bitcoin’s ‘best buying opportunity ever’ has arrived: Mark Moss",
-   "url": "https://cointelegraph.com/magazine/bitcoins-best-buying-opportunity-ever-has-arrived-mark-moss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T13:30:00+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Morning Minute: Vitalik Recasts ETH as a Store of Value",
    "url": "https://decrypt.co/382931/morning-minute-vitalik-recasts-eth-as-a-store-of-value",
    "published": "2026-11-10T13:24:51+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin may benefit as global tightening slows, Binance Research says",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-global-tightening-binance-research?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-10T13:15:59+00:00"
   },
   {
    "source": "Decrypt",
@@ -228,12 +234,6 @@
    "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
    "url": "https://www.coindesk.com/daybook-us/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-sells-holdings",
    "published": "2026-11-10T12:15:00+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
-   "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
-   "published": "2026-11-10T12:13:27+00:00"
   },
   {
    "source": "CoinDesk",
