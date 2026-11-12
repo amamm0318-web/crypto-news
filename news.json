@@ -1,6 +1,78 @@
 {
- "updated": "2026-11-12T01:26:37.661482+00:00",
+ "updated": "2026-11-12T09:39:24.677116+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+   "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+   "published": "2026-11-12T09:15:04+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+   "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+   "published": "2026-11-12T09:07:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
+   "url": "https://cointelegraph.com/markets/blackrock-bitcoin-etf-ibit-outflows-nine-day-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-12T08:06:48+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
+   "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+   "published": "2026-11-12T07:41:18+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
+   "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
+   "published": "2026-11-12T07:00:37+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-12T06:00:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
+   "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-12T05:54:48+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
+   "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
+   "published": "2026-11-12T05:49:44+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
+   "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
+   "published": "2026-11-12T05:22:31+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
+   "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
+   "published": "2026-11-12T05:18:43+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
+   "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-12T05:07:11+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Nvidia perps crash 7% as CEO Jensen Huang reportedly faces the axe",
+   "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-listless-nvidia-perps-crash-7-as-ceo-jensen-huang-reportedly-faces-the-axe",
+   "published": "2026-11-12T04:03:47+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "MSCI confirms Strategy’s removal from indexes at end of November",
@@ -24,12 +96,6 @@
    "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
    "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
    "published": "2026-11-11T22:36:03+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-11T22:15:26+00:00"
   },
   {
    "source": "Cointelegraph",
@@ -146,12 +212,6 @@
    "published": "2026-11-11T13:26:18+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-   "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-11T13:02:30+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
@@ -174,18 +234,6 @@
    "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
    "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
    "published": "2026-11-11T12:46:24+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-   "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-11T12:44:10+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Zcash falls below $1,000 for first time since September",
-   "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-11T12:31:44+00:00"
   },
   {
    "source": "CoinDesk",
@@ -222,54 +270,6 @@
    "title": "Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
    "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
    "published": "2026-11-11T10:51:34+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin stuck under $74,000 as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-   "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
-   "published": "2026-11-11T10:45:49+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-   "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-   "published": "2026-11-10T20:36:33+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-   "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-   "published": "2026-11-10T20:15:08+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
-   "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
-   "published": "2026-11-10T17:32:22+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
-   "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
-   "published": "2026-11-10T17:07:22+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-   "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-   "published": "2026-11-10T15:51:56+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Will stablecoins survive once the banks catch up?",
-   "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
-   "published": "2026-11-10T14:00:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-   "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-   "published": "2026-11-10T13:32:09+00:00"
   }
  ]
 }
