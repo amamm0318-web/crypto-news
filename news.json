@@ -1,6 +1,12 @@
 {
- "updated": "2026-11-13T22:28:06.257039+00:00",
+ "updated": "2026-11-14T03:00:15.864078+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
+   "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
+   "published": "2026-11-13T23:30:00+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
@@ -264,12 +270,6 @@
    "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
    "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
    "published": "2026-11-12T22:36:02+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
-   "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
-   "published": "2026-11-12T21:07:49+00:00"
   }
  ]
 }
