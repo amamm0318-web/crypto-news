@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-15T02:30:15.930459+00:00",
+ "updated": "2026-11-15T10:38:35.595879+00:00",
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+   "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-15T10:23:17+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Coinone warns of phishing, identity theft after customer data breach",
+   "url": "https://cointelegraph.com/news/coinone-data-breach-phishing-identity-theft-customer-information?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-15T08:07:58+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "RWA protocol stUSDT winds down three years after $2.3B TVL peak",
+   "url": "https://cointelegraph.com/news/rwa-protocol-stusdt-winds-down-three-years-after-23b-tvl-peak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-15T06:27:26+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+   "url": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+   "published": "2026-11-15T02:50:57+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
@@ -236,12 +260,6 @@
    "published": "2026-11-13T13:03:40+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Israeli police arrest five in $5M WhatsApp crypto trading probe",
-   "url": "https://cointelegraph.com/news/israel-police-arrest-five-5m-whatsapp-crypto-scheme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-13T12:19:01+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Bitcoin's momentum gauge is turning red, could send prices back below $60,000",
    "url": "https://www.coindesk.com/daybook-us/2026/11/13/bitcoin-s-momentum-gauge-is-turning-red-could-send-prices-back-below-usd60-000",
@@ -252,24 +270,6 @@
    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
    "published": "2026-11-13T11:52:25+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Unocoin keeps deposits and withdrawals halted over suspect transfers",
-   "url": "https://cointelegraph.com/news/unocoin-withdrawals-halted-bitgo-wallet-transfer-probe?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-13T09:58:21+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin returns to 200-week trend line as analyst sees risk of $57.7K next",
-   "url": "https://cointelegraph.com/markets/bitcoin-returns-200-week-trend-line-analyst-sees-risk-57k-next?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-13T09:39:05+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Live updates: Bitcoin eyes bear market lows as late summer rally mostly wiped out",
-   "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
-   "published": "2026-11-13T09:16:58+00:00"
   }
  ]
 }
