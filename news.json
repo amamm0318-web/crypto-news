@@ -1,6 +1,30 @@
 {
- "updated": "2026-11-19T21:20:05.462743+00:00",
+ "updated": "2026-11-20T02:57:13.937082+00:00",
  "items": [
+  {
+   "source": "Cointelegraph",
+   "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+   "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T23:44:02+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
+   "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+   "published": "2026-11-19T22:36:02+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance’s $6.5B freeze order, Hong Kong ‘suspicious’ of HYPE: Asia Express",
+   "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T22:25:18+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-19T21:42:20+00:00"
+  },
   {
    "source": "Decrypt",
    "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
@@ -128,12 +152,6 @@
    "published": "2026-11-19T14:01:02+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-19T13:48:14+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
    "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
@@ -225,7 +243,7 @@
   },
   {
    "source": "CoinDesk",
-   "title": "Live updates: Bitcoin falls as strong Anthropic opening fails to lift animal spirits",
+   "title": "Live updates: Bitcoin plunges to lowest since July as Anthropic gains, but broader markets tumble",
    "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
    "published": "2026-11-19T10:48:26+00:00"
   },
@@ -252,24 +270,6 @@
    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
    "published": "2026-11-19T10:22:12+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
-   "url": "https://cointelegraph.com/news/mas-issues-77m-tokenized-bills-singapore-dollar-test-network?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-19T08:54:58+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin ETF assets fall to three-month low as 2026 net outflows top $2.5B",
-   "url": "https://cointelegraph.com/markets/bitcoin-etf-assets-three-month-low-78-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-19T08:26:19+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
-   "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
-   "published": "2026-11-18T22:16:02+00:00"
   }
  ]
 }
