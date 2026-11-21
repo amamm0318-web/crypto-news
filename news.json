@@ -1,6 +1,48 @@
 {
- "updated": "2026-11-21T09:33:02.389898+00:00",
+ "updated": "2026-11-21T17:17:35.580713+00:00",
  "items": [
+  {
+   "source": "Decrypt",
+   "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+   "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+   "published": "2026-11-21T17:01:02+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+   "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+   "published": "2026-11-21T16:41:00+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+   "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+   "published": "2026-11-21T16:01:02+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+   "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+   "published": "2026-11-21T14:01:06+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+   "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
+   "published": "2026-11-21T12:30:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-21T11:18:52+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+   "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-21T09:48:56+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
@@ -164,12 +206,6 @@
    "published": "2026-11-20T13:30:22+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-20T13:29:58+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
    "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
@@ -206,12 +242,6 @@
    "published": "2026-11-20T11:50:51+00:00"
   },
   {
-   "source": "CoinDesk",
-   "title": "Bitcoin drops for third straight day as Asian tech shares slide",
-   "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-drops-for-third-straight-day-as-asian-tech-shares-slide",
-   "published": "2026-11-20T11:42:02+00:00"
-  },
-  {
    "source": "Cointelegraph",
    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
    "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -230,46 +260,16 @@
    "published": "2026-11-20T10:54:38+00:00"
   },
   {
-   "source": "CoinDesk",
-   "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-   "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
-   "published": "2026-11-20T10:48:04+00:00"
-  },
-  {
    "source": "Cointelegraph",
    "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
    "url": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-20T10:29:10+00:00"
   },
   {
-   "source": "Decrypt",
-   "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
-   "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
-   "published": "2026-11-20T10:07:46+00:00"
-  },
-  {
    "source": "Cointelegraph",
    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
    "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-20T08:18:42+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "SEC charges 8 firms over fake crypto platforms tied to $37M fraud",
-   "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-20T08:03:34+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-   "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-   "published": "2026-11-19T22:36:02+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
-   "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
-   "published": "2026-11-19T21:12:06+00:00"
   }
  ]
 }
