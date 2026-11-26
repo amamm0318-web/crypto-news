@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-25T22:21:18.596967+00:00",
+ "updated": "2026-11-26T04:52:32.594463+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Bill to lock up U.S. government bitcoin for 20 years advances to full House",
+   "url": "https://www.coindesk.com/policy/2026/11/26/strategic-bitcoin-reserve-bill-to-lock-up-u-s-government-held-bitcoin-for-20-years-goes-to-full-house",
+   "published": "2026-11-26T04:46:01+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Senate Democrats urge SEC to scrap crypto, tokenized stock exemptions",
+   "url": "https://cointelegraph.com/news/senate-democrats-urge-sec-to-scrap-crypto-tokenized-stock-exemptions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-26T04:24:45+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+   "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-26T01:33:20+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "China's Google Just Released Its Fast New AI Model for Free",
+   "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+   "published": "2026-11-25T22:38:09+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-25T22:33:13+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
@@ -158,12 +188,6 @@
    "published": "2026-11-25T13:41:38+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-25T13:26:05+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
    "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
@@ -224,28 +248,10 @@
    "published": "2026-11-25T11:23:57+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
-   "url": "https://cointelegraph.com/markets/bitcoin-etfs-near-record-5-billion-monthly-outflows?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-25T11:12:26+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Bitcoin price may fall below $53K if bear-market history repeats",
-   "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-25T11:09:38+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
    "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
    "published": "2026-11-25T11:00:27+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-   "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-   "published": "2026-11-25T10:35:57+00:00"
   },
   {
    "source": "CoinDesk",
@@ -264,12 +270,6 @@
    "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
    "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
    "published": "2026-11-25T06:15:08+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
-   "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
-   "published": "2026-11-25T04:57:22+00:00"
   }
  ]
 }
