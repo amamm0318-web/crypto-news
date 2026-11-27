@@ -1,6 +1,162 @@
 {
- "updated": "2026-11-27T07:58:44.967956+00:00",
+ "updated": "2026-11-27T18:05:49.293483+00:00",
  "items": [
+  {
+   "source": "Decrypt",
+   "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+   "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+   "published": "2026-11-27T17:43:29+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "China sets March 2027 rollout for blockchain identity regulations",
+   "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T17:37:23+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+   "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+   "published": "2026-11-27T17:09:30+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+   "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T16:48:51+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "AI-Powered GTA 6 PC Ports Now Have Multiplayer as Modders Unlock 30 and 60 FPS",
+   "url": "https://decrypt.co/384138/ai-powered-gta-6-pc-ports-now-have-multiplayer-as-modders-unlock-30-and-60-fps",
+   "published": "2026-11-27T16:21:40+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "What was Coinbase worth while Nasdaq was closed?",
+   "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T14:40:54+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+   "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
+   "published": "2026-11-27T13:50:04+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+   "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T13:44:00+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Here’s what happened in crypto today",
+   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T13:28:26+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+   "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
+   "published": "2026-11-27T13:24:17+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+   "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+   "published": "2026-11-27T13:19:10+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
+   "url": "https://cointelegraph.com/news/brazil-b3-stablecoin-tokenization-launch-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T12:39:54+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Austria-supervised crypto firms report 20.4B euros in H1 trading volume",
+   "url": "https://cointelegraph.com/news/austria-supervised-crypto-firms-report-204b-h1-volume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T12:20:00+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+   "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+   "published": "2026-11-27T12:16:07+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+   "published": "2026-11-27T11:45:47+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+   "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+   "published": "2026-11-27T11:34:37+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+   "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+   "published": "2026-11-27T11:22:42+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
+   "url": "https://decrypt.co/384118/kalshi-courts-small-businesses-with-microinsurance-as-state-crackdowns-bite",
+   "published": "2026-11-27T11:19:47+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
+   "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T11:14:28+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Injective asks SEC to allow order books for tokenized stock trading",
+   "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+   "published": "2026-11-27T11:07:17+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Brazil’s stock exchange teams up with major banks to launch real-pegged stablecoin",
+   "url": "https://www.coindesk.com/business/2026/11/27/brazil-s-stock-exchange-teams-up-with-major-banks-to-launch-real-pegged-stablecoin",
+   "published": "2026-11-27T10:51:27+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
+   "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T10:26:06+00:00"
+  },
+  {
+   "source": "Decrypt",
+   "title": "Ethereum Sets December 15 Date for Delayed Glamsterdam Testnet Upgrade",
+   "url": "https://decrypt.co/384104/ethereum-sets-december-15-date-for-delayed-glamsterdam-testnet-upgrade",
+   "published": "2026-11-27T10:15:51+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Tether can freeze stolen crypto in minutes. Getting it back can take years.",
+   "url": "https://www.coindesk.com/business/2026/11/27/tether-can-freeze-stolen-crypto-in-minutes-getting-it-back-can-take-years",
+   "published": "2026-11-27T10:00:00+00:00"
+  },
+  {
+   "source": "CoinDesk",
+   "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+   "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+   "published": "2026-11-27T09:49:55+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+   "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-27T08:04:39+00:00"
+  },
   {
    "source": "CoinDesk",
    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
@@ -12,12 +168,6 @@
    "title": "New York AG secures $1.37B court judgment against NovaTech founders",
    "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
    "published": "2026-11-27T07:19:44+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Here’s what happened in crypto today",
-   "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-27T06:00:00+00:00"
   },
   {
    "source": "Cointelegraph",
@@ -62,34 +212,10 @@
    "published": "2026-11-27T00:35:39+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "‘Very racist’ Netflix SBF series, BitMart’s $319M shortfall: Asia Express",
-   "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T22:39:46+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
    "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
    "published": "2026-11-26T22:01:02+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-   "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T21:42:43+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
-   "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T21:33:47+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "UK is ‘getting it wrong’ on DeFi regulation, says Coinbase",
-   "url": "https://cointelegraph.com/news/uk-wrong-defi-regulation-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T21:13:53+00:00"
   },
   {
    "source": "Decrypt",
@@ -98,34 +224,16 @@
    "published": "2026-11-26T21:01:03+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Japan weighs tighter oversight of DeFi, self-custodial wallets",
-   "url": "https://cointelegraph.com/news/japan-tighter-oversight-defi-self-custodial-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T20:05:18+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
    "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
    "published": "2026-11-26T19:01:02+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
-   "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T18:26:31+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
    "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
    "published": "2026-11-26T18:15:29+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
-   "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T17:39:53+00:00"
   },
   {
    "source": "CoinDesk",
@@ -146,24 +254,6 @@
    "published": "2026-11-26T16:43:02+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
-   "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T16:40:44+00:00"
-  },
-  {
-   "source": "Cointelegraph",
-   "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
-   "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-26T15:45:07+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
-   "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
-   "published": "2026-11-26T15:42:43+00:00"
-  },
-  {
    "source": "Decrypt",
    "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
    "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
@@ -180,96 +270,6 @@
    "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
    "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
    "published": "2026-11-26T14:26:22+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
-   "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
-   "published": "2026-11-26T14:05:58+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-   "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
-   "published": "2026-11-26T13:13:19+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
-   "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
-   "published": "2026-11-26T12:38:51+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
-   "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
-   "published": "2026-11-26T12:26:08+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
-   "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
-   "published": "2026-11-26T12:14:46+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "UK Regulator Cites Binance Hack as It Plans Tougher DeFi Rules Than US and EU: Report",
-   "url": "https://decrypt.co/384027/uk-regulator-cites-binance-hack-as-it-plans-tougher-defi-rules-than-us-and-eu-report",
-   "published": "2026-11-26T11:50:23+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Hong Kong-based crypto trading firm Auros is winding down operations",
-   "url": "https://www.coindesk.com/markets/2026/11/26/major-crypto-trading-firm-auros-is-winding-down-operations-sources",
-   "published": "2026-11-26T11:27:50+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
-   "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
-   "published": "2026-11-26T11:25:58+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
-   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
-   "published": "2026-11-26T11:17:22+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-   "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
-   "published": "2026-11-26T10:56:08+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "New York Attorney General wins $1.4 billion ruling against founders of crypto trading firm NovaTech",
-   "url": "https://www.coindesk.com/policy/2026/11/26/new-york-attorney-general-wins-usd1-4-billion-ruling-against-founders-of-crypto-trading-firm-novatech",
-   "published": "2026-11-26T10:40:33+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
-   "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
-   "published": "2026-11-26T08:01:33+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "China's Google Just Released Its Fast New AI Model for Free",
-   "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-   "published": "2026-11-25T22:38:09+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-   "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-   "published": "2026-11-25T21:46:02+00:00"
-  },
-  {
-   "source": "Decrypt",
-   "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
-   "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
-   "published": "2026-11-25T21:16:02+00:00"
   }
  ]
 }
