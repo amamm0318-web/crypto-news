@@ -1,6 +1,18 @@
 {
- "updated": "2026-11-28T01:51:15.142975+00:00",
+ "updated": "2026-11-28T10:07:40.937009+00:00",
  "items": [
+  {
+   "source": "CoinDesk",
+   "title": "Trump-linked crypto token WLFI plunges 50% to record lows",
+   "url": "https://www.coindesk.com/markets/2026/11/28/trump-linked-crypto-token-wlfi-plunges-over-50",
+   "published": "2026-11-28T09:32:51+00:00"
+  },
+  {
+   "source": "Cointelegraph",
+   "title": "Binance receives in-principle approval, plans Asia hub in Bhutan",
+   "url": "https://cointelegraph.com/news/binance-receives-in-principle-approval-plans-asia-hub-in-bhutan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+   "published": "2026-11-28T07:43:00+00:00"
+  },
   {
    "source": "Cointelegraph",
    "title": "Here’s what happened in crypto today",
@@ -218,12 +230,6 @@
    "published": "2026-11-27T05:06:32+00:00"
   },
   {
-   "source": "Cointelegraph",
-   "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
-   "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-   "published": "2026-11-27T04:47:36+00:00"
-  },
-  {
    "source": "CoinDesk",
    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
    "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
@@ -264,12 +270,6 @@
    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
    "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
    "published": "2026-11-26T17:30:00+00:00"
-  },
-  {
-   "source": "CoinDesk",
-   "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-   "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-   "published": "2026-11-26T16:50:23+00:00"
   }
  ]
 }
